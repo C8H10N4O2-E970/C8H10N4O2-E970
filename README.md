@@ -4,7 +4,7 @@
 
 **Nationality**: Franco-American
 
-**Lives in**: Paris, France
+**Lives in**: Pͮ͗͏̢̬̣̱̬̖̙̱a̙̠̖̱͖͇̞̭̎̾r̬͉͎̭ͧ͒̔̌͒́̏ͪi̭͔̍̌͗̂ͮ͛ͅs͕̪̅͑͑̓̄͆ͪ̐̎,̢̘̳͎̆̈́͊̀̅ͨ̇ͬ͞ ͎̹ͬ̄̅̽̐ͣ́F̴̷͔͉̱̮̦̝̙̩ͨ̓ͩ͊͌͞r̥̙̥͕̠̺̠̐ͤ͐̂ͮ̽͊͢͟ȧ̢̠̥̤̹̭ͪn̘̮̹̦̝͕͇̥ͥͭ͒ͭc̴̛̲͚̩̤ͨͯͤ͝eͩ͏̫̠̺̙̫̞̹̪͇͘͜
 
 **Has learned**: Python, Javascript, HTML, C#, C, Go, CSS
 
