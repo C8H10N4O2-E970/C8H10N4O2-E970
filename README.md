@@ -22,9 +22,13 @@
 
 ### Java
 
+
+
 <a href="http://instagram.com/javatheamazingdoggo">![@javatheamazingdoggo](https://ontake.reeee.ee/uwD07j.jpeg)</a>
 
 
 ### Elsa
+
+February 2015 - March 21st 2018
 
 ![Elsa the Norvegian Rat](https://ontake.reeee.ee/mHGbaM.jpeg)
