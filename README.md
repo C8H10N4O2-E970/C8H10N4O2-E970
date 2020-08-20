@@ -30,6 +30,6 @@ December 2017 -
 
 ### Elsa
 
-February 2015 - March 21st 2018
+February 10th 2015 - March 21st 2018
 
 ![Elsa the Norvegian Rat](https://ontake.reeee.ee/mHGbaM.jpeg)
