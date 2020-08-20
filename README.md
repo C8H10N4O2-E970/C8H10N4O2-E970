@@ -16,4 +16,4 @@
 
 **Links**: [Website](https://techadvancedcyborg.github.io)
 
-**Java**: ![@javatheamazingdoggo](https://ontake.reeee.ee/uwD07j.jpeg)
+<a href="http://instagram.com/javatheamazingdoggo">**Java**: ![@javatheamazingdoggo](https://ontake.reeee.ee/uwD07j.jpeg)</a>
