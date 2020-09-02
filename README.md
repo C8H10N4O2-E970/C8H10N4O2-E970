@@ -1,18 +1,8 @@
 
 ## Profile
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=TechAdvancedCyborg&show_icons=true&hide_border=true" />
-<br>
+
 Hey, I'm Louis Dalibard, French dev, born in the US, I have learned Python, Javascript, HTML, JS, C#, C, Go, Java, CSS. Visit my <a href="https://techadvancedcyborg.github.io/">website</a>.
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <img src="http://img.shields.io/badge/Discord-%40OnTake%235344-7289DA?style=for-the-badge" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
