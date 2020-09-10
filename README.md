@@ -24,7 +24,8 @@ Hey, I'm Louis Dalibard, French dev, born in the US, I have learned Python, Java
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TechAdvancedCyborg&repo=OpenNotes&theme=dracula&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TechAdvancedCyborg&repo=TTACT-s-Anime-Player-Revamped&theme=dracula&hide_border=true" />
     <br>
-</p>
+<br>
 <i>
-    NOTE: Top languages does not indicate my skill level, it's a GitHub metric of which languages i have the most code on GitHub, it's a new feature of <a href="https://github.com/anuraghazra/github-readme-stats/">github-readme-stats</a></i>
+    NOTE: Top languages does not indicate my skill level, it's a GitHub metric of which languages i have the most code on GitHub, it's a new feature of <a href="https://github.com/anuraghazra/github-readme-stats/">github-readme-stats</a></i><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechAdvancedCyborg&layout=compact&theme=dracula&hide_border=true" />
+</p>
