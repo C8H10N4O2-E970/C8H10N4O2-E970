@@ -1,5 +1,3 @@
-<div style="background:black;">
-    
 ## Profile
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=TechAdvancedCyborg&show_icons=true&theme=dracula" />
 
@@ -14,6 +12,7 @@ Hey, I'm Louis Dalibard, French dev, born in the US, I have learned Python, Java
     <br>
     <br>
     <br>
+    <br>
     <font size="14">
         <b>
             My projects
@@ -25,4 +24,3 @@ Hey, I'm Louis Dalibard, French dev, born in the US, I have learned Python, Java
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TechAdvancedCyborg&repo=OpenNotes&theme=dracula" />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TechAdvancedCyborg&repo=TTACT-s-Anime-Player-Revamped&theme=dracula" />
 </p>
-</div>
