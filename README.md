@@ -1,5 +1,7 @@
+<div style="background:black;">
+    
 ## Profile
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=TechAdvancedCyborg&show_icons=true&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=TechAdvancedCyborg&show_icons=true&theme=dracula" />
 
 Hey, I'm Louis Dalibard, French dev, born in the US, I have learned Python, Javascript, HTML, JS, C#, C, Go, Java, CSS. Visit my <a href="https://techadvancedcyborg.github.io/">website</a>.
 <br>
@@ -18,8 +20,9 @@ Hey, I'm Louis Dalibard, French dev, born in the US, I have learned Python, Java
         </b><br>
     </font>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TechAdvancedCyborg&repo=NekoVault" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TechAdvancedCyborg&repo=DiscordRPCForMPRIS2" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TechAdvancedCyborg&repo=OpenNotes" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TechAdvancedCyborg&repo=TTACT-s-Anime-Player-Revamped" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TechAdvancedCyborg&repo=NekoVault&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TechAdvancedCyborg&repo=DiscordRPCForMPRIS2&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TechAdvancedCyborg&repo=OpenNotes&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TechAdvancedCyborg&repo=TTACT-s-Anime-Player-Revamped&theme=dracula" />
 </p>
+</div>
