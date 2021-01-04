@@ -1,7 +1,7 @@
 ## Profile
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=AnOnTake&show_icons=true&theme=dracula&hide_border=true" />
 
-Hey, I'm Louis Dalibard, French dev, born in the US, I have learned Python, Javascript, HTML, JS, C#, C, Go, Java, CSS. Visit my <a href="https://anontake.github.io/">website</a>.
+Hey, I'm Louis Dalibard, French dev, born in the US, I have learned Python, Javascript, HTML, JS, C++ C#, C, Go, Java, CSS. Visit my <a href="https://anontake.github.io/">website</a>.
 <br>
 <p align="center">
     <img src="http://img.shields.io/badge/Discord-%40OnTake%235344-7289DA?style=for-the-badge" />
