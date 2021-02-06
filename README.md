@@ -19,8 +19,8 @@ Hey, I'm Louis Dalibard, French dev, born in the US, I have learned Python, Java
         </b><br>
     </font>
     <br>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xE0F9&repo=Open7SClock&theme=dracula&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xE0F9&repo=NekoVault&theme=dracula&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xE0F9&repo=DiscordRPCForMPRIS2&theme=dracula&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xE0F9&repo=OpenNotes&theme=dracula&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xE0F9&repo=xE0F9.github.io&theme=dracula&hide_border=true" />
     <br>
