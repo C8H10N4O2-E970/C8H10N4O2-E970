@@ -19,10 +19,10 @@ Hey, I'm Louis Dalibard, French dev, born in the US, I have learned Python, Java
         </b><br>
     </font>
     <br>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=make-42&repo=pTuna&theme=dracula&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=make-42&repo=pihon&theme=dracula&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=make-42&repo=Open7SClock&theme=dracula&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=make-42&repo=NekoVault&theme=dracula&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=make-42&repo=OpenNotes&theme=dracula&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=make-42&repo=make-42.github.io&theme=dracula&hide_border=true" />
     <br>
 <br>
 <i>
