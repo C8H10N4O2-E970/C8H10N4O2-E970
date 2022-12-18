@@ -19,14 +19,14 @@ Hey, I'm Louis Dalibard, French dev, born in the US, I have learned Python, Java
         </b><br>
     </font>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=porla&repo=cli&theme=dracula&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=make-42&repo=pTuna&theme=dracula&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=make-42&repo=pihon&theme=dracula&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=make-42&repo=Open7SClock&theme=dracula&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=make-42&repo=OpenNotes&theme=dracula&hide_border=true" />
+    <a href="https://github.com/porla/cli"><img src="https://github-readme-stats.vercel.app/api/pin/?username=porla&repo=cli&theme=dracula&hide_border=true&show_owner=true" /></a>
+    <a href="https://github.com/make-42/pTuna"><img src="https://github-readme-stats.vercel.app/api/pin/?username=make-42&repo=pTuna&theme=dracula&hide_border=true&show_owner=true" /></a>
+    <a href="https://github.com/make-42/pihon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=make-42&repo=pihon&theme=dracula&hide_border=true&show_owner=true" /></a>
+    <a href="https://github.com/make-42/Open7SClock"><img src="https://github-readme-stats.vercel.app/api/pin/?username=make-42&repo=Open7SClock&theme=dracula&hide_border=true&show_owner=true" /></a>
+    <a href="https://github.com/make-42/OpenNotes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=make-42&repo=OpenNotes&theme=dracula&hide_border=true&show_owner=true" /></a>
     <br>
 <br>
 <i>
     NOTE: Top languages does not indicate my skill level, it's a GitHub metric of which languages i have the most code on GitHub.</i><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=make-42&layout=compact&theme=dracula&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=make-42&layout=compact&theme=dracula&hide_border=true&hide=OpenSCAD,HTML,Javascript,Pug,Coffeescript,CSS,SCSS,CMake,Makefile&langs_count=5" />
 </p>
