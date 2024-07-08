@@ -1,7 +1,7 @@
 ## Profile
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=make-42&show_icons=true&theme=dracula&hide_border=true" />
 
-Hey, I'm Louis Dalibard, French dev, born in the US, I have learned Python, Javascript, HTML, JS, C++ C#, C, Go, Java, CSS. Visit my <a href="https://ontake.dev/">website</a>. I host some of my projects <a href="https://git.ontake.dev/">here</a> instead.
+Hey, I'm Louis Dalibard, French dev, born in the US, I have learned Python, Javascript, HTML, JS, C++ C#, C, Rust, Go, Haskell, Java, CSS. Visit my <a href="https://ontake.dev/">website</a>. I host some of my projects <a href="https://git.ontake.dev/">here</a> instead.
 <br>
 <p align="center">
     <img src="http://img.shields.io/badge/Discord-%40OnTake%235344-7289DA?style=for-the-badge" />
