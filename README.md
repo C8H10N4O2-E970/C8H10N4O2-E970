@@ -19,6 +19,8 @@ Hey, I'm Louis Dalibard, French dev, born in the US, I have learned Python, Java
         </b><br>
     </font>
     <br>
+    <a href="https://github.com/make-42/xyosc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=make-42&repo=xyosc&theme=dracula&hide_border=true&show_owner=true" /></a>
+    <a href="https://github.com/make-42/hayai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=make-42&repo=hayai&theme=dracula&hide_border=true&show_owner=true" /></a>
     <a href="https://github.com/porla/cli"><img src="https://github-readme-stats.vercel.app/api/pin/?username=porla&repo=cli&theme=dracula&hide_border=true&show_owner=true" /></a>
     <a href="https://github.com/make-42/pTuna"><img src="https://github-readme-stats.vercel.app/api/pin/?username=make-42&repo=pTuna&theme=dracula&hide_border=true&show_owner=true" /></a>
     <a href="https://github.com/make-42/pihon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=make-42&repo=pihon&theme=dracula&hide_border=true&show_owner=true" /></a>
